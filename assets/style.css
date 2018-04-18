@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 11, 2018, 10:50:07 AM
+    Author     : stephenmbaalu
+*/
+
+
+h1.mvp-post-title {
+    margin-right: 20% !important;
+    width: 100% !important;
+}
+
+.mvp-post-main-out {
+    width: 100% !important;
+}
+
+.mvp-post-main-in {
+    width: 100% !important;
+}
+#mvp-side-wrap {
+    width: 0 !important;
+    display: none;
+}
+.woocommerce.columns-3 ul.products li.product {
+    width: 22% !important;
+	margin-left: 0px !important;
+	padding: 0px 0px !important;
+	margin: 0 1.8% 1.992em 0 !important;
+}
+.woocommerce ul.products li.first{
+	clear:none !important;
+}
+.woocommerce ul.products li.product .price, .woocommerce ul.products li.product .woocommerce-loop-product__title{
+	display: none !important;
+}
+#mvp-content-main .theiaPostSlider_preloadedSlide h1{
+	text-align: center !important;
+	color: #004e83 !important;
+}
+#mvp-content-main .theiaPostSlider_preloadedSlide p{
+	text-align: center !important;
+	color: #004e83 !important;
+}
+.mvp-post-add-story {
+    width: 33% !important;
+}
+.mvp-post-add-story:first-child {
+    margin-top: 30px !important;
+}
